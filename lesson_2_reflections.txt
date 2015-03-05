@@ -6,3 +6,19 @@ What value do you think it offers?
 
 Staging area is where you set up what in your working directory you're going to commit to your git repository. Lets you decide what changes to commit when (and lets you easily back out said changes)
 
+How can you use the staging area to make sure you have one commit per logical change?
+Only add things to staging area related to logical changes
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Experimenting w/features. Bug fixes on release branch (added new feature not ready to be released but have emergency bug fix to make)
+
+How do the diagrams help you visualize the branch structure?
+Shows you what commits are within what branch
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Changes on both branches brought together. Show parents of individual commits and then "child" has 2 parents
+
+
+
+
