@@ -5,3 +5,9 @@ Working w/ other people. Want other people to review changes. Open source. Backu
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 If in the middle of making changes, don't want to have to deal with 'merge' issues until you're done.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Clone is copy of repository. Branch is a thread. Fork is a copy of someone's repos where you have full history w/o causing changes to theirs
+
+
+
