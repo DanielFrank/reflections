@@ -9,5 +9,7 @@ If in the middle of making changes, don't want to have to deal with 'merge' issu
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Clone is copy of repository. Branch is a thread. Fork is a copy of someone's repos where you have full history w/o causing changes to theirs
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
 
+Can compare and contrast to your current state (especially if off-line)
 
